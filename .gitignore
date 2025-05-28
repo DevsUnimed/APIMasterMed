@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/APIMasterMed/.vs/APIMasterMed/FileContentIndex
+/APIMasterMed/.vs/APIMasterMed/CopilotIndices/17.14.698.11175
+/.vs/APIMasterMed/DesignTimeBuild
+/.vs
