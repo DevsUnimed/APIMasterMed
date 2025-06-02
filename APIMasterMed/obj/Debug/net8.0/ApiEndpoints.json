@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "APIMasterMed.Controllers.PaDigitalController",
+    "Method": "Index",
+    "RelativePath": "api/PaDigital",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
