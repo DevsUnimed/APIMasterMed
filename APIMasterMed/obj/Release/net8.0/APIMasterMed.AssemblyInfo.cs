@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIMasterMed")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f56d2ffc5dd299aa9cbf09e75a7f87ca31b220fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fc0efffc2a3601e1a5c2483a352a5b4f14f027d")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIMasterMed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIMasterMed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
