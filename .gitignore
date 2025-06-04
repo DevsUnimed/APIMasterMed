@@ -10,3 +10,11 @@
 /APIMasterMed/.vs/APIMasterMed/v17
 /APIMasterMed/.vs/APIMasterMed
 *.sln
+/APIMasterMed/bin/Debug/net8.0-windows10.0.26100.0
+/APIMasterMed/obj/APIMasterMed.csproj.nuget.dgspec.json
+/APIMasterMed/obj/APIMasterMed.csproj.nuget.g.props
+/APIMasterMed/obj/APIMasterMed.csproj.nuget.g.targets
+/APIMasterMed/obj/project.assets.json
+/APIMasterMed/obj/project.nuget.cache
+/APIMasterMed/APIMasterMed.csproj
+/APIMasterMed/APIMasterMed.csproj.user
