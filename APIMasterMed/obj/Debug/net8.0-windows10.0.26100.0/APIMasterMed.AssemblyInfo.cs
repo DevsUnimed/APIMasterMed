@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIMasterMed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a166c60dcaad2c8343df34448a7f3009250e78a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb7fcba1991bcbad758a82d0d98e5c14053230f")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIMasterMed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIMasterMed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

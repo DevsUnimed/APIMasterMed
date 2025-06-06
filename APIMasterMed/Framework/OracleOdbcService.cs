@@ -9,15 +9,13 @@ namespace APIMasterMed.Framework
 
         public OracleOdbcService(IConfiguration configuration)
         {
-            var connectionString = configuration.GetConnectionString("OracleODBC")
+            _connectionString = configuration.GetConnectionString("OracleODBC")
                       ?? throw new InvalidOperationException("Connection string 'OracleODBC' não foi encontrada.");
         }
 
         public DataTable Execute(string SQL)
         {
             var dataTable = new DataTable();
-
-            this.ErrorLog = string.Empty;
 
             try
             {
